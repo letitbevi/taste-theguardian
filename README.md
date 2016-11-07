@@ -1,2 +1,2 @@
-# taste-theguardian
-collect some interesting stuffs from the guardian and taste it
+# theguardian-api
+A simple example to request The Guardian API
